@@ -30,3 +30,5 @@ Set Up Database:
 
 Create a Database: Log in to your MySQL server and create a database for your application with name Registration. Refer to MySQL documentation for specific instructions.
 Run the Application:
+
+Api endpoint-> / exmaple: http://localhost:8080/
